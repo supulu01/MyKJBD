@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("TTT","15233866887");
+        Log.d("TTT","15233866887");
 
     }
 }
