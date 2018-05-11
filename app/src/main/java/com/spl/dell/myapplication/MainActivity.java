@@ -13,8 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("TTT","15233866887");
         Log.d("TTT","15233866887");
-        Log.d("TTT","15233866887");
-        Log.d("TTT","15233866887");
 
     }
 }
